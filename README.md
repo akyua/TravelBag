@@ -1,7 +1,7 @@
 <h1 align="center">TravelBag</h1>
 
 <p align="center"> The Project is a web page, where you'll put on the things you need to take in your travel bag </p>
-<p align="center"> =It was utilized localStorage, with the purpose save in your computer the changes done the user </p>
+<p align="center"> It was utilized localStorage, with the purpose save in your computer the changes done the user </p>
 <p align="center"> It's not responsive website yet, but soon i will update/fix it </p>
 
 <br>
